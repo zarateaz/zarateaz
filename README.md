@@ -14,7 +14,7 @@
 
 <p align="center">
   <strong><span style="color:#00FFCC;">⬤ BIENVENIDO A MI MATRIX ⬤</span></strong><br />
-  🇵🇪 Lima, Perú | 404 - Cordura no encontrada | Solo código y neon
+  🇵🇪 Lima, Perú | 404
 </p>
 
 <p align="center">
@@ -33,13 +33,3 @@
 </p>
 
 ---
-
-### 🧬 MATRIX DATA SLOT
-
-```yaml
-STATUS: ONLINE
-CORAZA_NEURAL: ACTIVADA
-REALIDAD: PERÚ - UTC-5
-MISIÓN: DOMINAR EL CÓDIGO Y ROMPER SISTEMAS (éticamente)
-HOBBIES: [CAFÍNA, CIBERMÚSICA, DEBUGGEAR LA REALIDAD]
-FRASE: "EL CÓDIGO ES MI ARMA, LA CONSOLA MI SANTUARIO"
