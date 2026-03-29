@@ -1,19 +1,20 @@
-<!--
-*** CYBERPUNK EDITION - Angel Zárate | Perú
-*** Código neon, animaciones y estilo futurista
--->
-
+<!--- 🔥 CYBERPUNK 2077 - ANGEL ZÁRATE | PERÚ 🔥 --->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFCC&center=true&vCenter=true&width=600&lines=ANGEL+Z%C3%81RATE;CYBER+DEVELOPER;FULL+STACK+%7C+PER%C3%9A;NEON+CODE+%7C+SYSTEM+REBEL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2000&pause=200&color=00FFCC&center=true&vCenter=true&width=700&height=70&lines=%3E+ANGEL+Z%C3%81RATE;%3E+PER%C3%9A+%7C+UTC-5;%3E+FULL+STACK+DEVELOPER;%3E+SYSTEM+REBEL+%7C+NEON+CODE" alt="Typing" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
 </p>
 
 <p align="center">
-  <strong>⚡ BIENVENIDO A MI MATRIX ⚡</strong><br>
-  <em>🇵🇪 Lima, Perú | 404 - Cordura no encontrada | Solo código y neon</em>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FFCC?style=for-the-badge&logo=matrix&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/CORAZA_NEURAL-ACTIVADA-FF00FF?style=for-the-badge&logo=anaconda&logoColor=white&labelColor=black" />
+</p>
+
+<p align="center">
+  <strong><span style="color:#00FFCC;">⬤ BIENVENIDO A MI MATRIX ⬤</span></strong><br />
+  🇵🇪 Lima, Perú | 404 - Cordura no encontrada | Solo código y neon
 </p>
 
 <p align="center">
