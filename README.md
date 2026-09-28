@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <strong><span style="color:#00FFCC;">⬤ BIENVENIDO A MI MATRIX ⬤</span></strong><br />
+  <strong><span style="color:#00FFCC;">⬤  ⬤</span></strong><br />
   🇵🇪 Lima, Perú | 404
 </p>
 
